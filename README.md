@@ -1,8 +1,15 @@
 # DSA-Assignment-III
-Assignment-2 Submitted by:Debasmita Kar
-Scholar Id- 2012180  Course code: CS201 National Institute of Technology, Silchar
+Assignment-2 Submitted by:Debasmita Kar Scholar Id:2012180
+CS 201,
 
-Questions:- Assignment III CS-201 Data Structures
+Data Structures,
+
+Department of Computer Science and Engineering,
+
+National Institute of Technology ,Silchar
+
+
+Questions:- Assignment III 
 
 1.How to generate unique string hash value? For instance, input: ”CSE Rocks”, Output: Some integer value
 2.Benchmark the performance of Insertion sort technique for average case, best case and worst cases. Draw the chart.
