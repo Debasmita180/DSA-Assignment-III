@@ -1,5 +1,5 @@
 # DSA-Assignment-III
-Assignment-2 Submitted by:Debasmita Kar Scholar Id:2012180
+ Submitted by:Debasmita Kar Scholar Id:2012180
 CS 201,
 
 Data Structures,
